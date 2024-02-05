@@ -1,0 +1,23 @@
+konfigurasi GIT
+------------------------------------------
+Disusun oleh   : Khosyi Nasywa Imanda
+tanggal dibuat : 2 februari 2024
+
+.
+.
+.
+.
+.
+
+berikut merupakan langkah langkah dalam melakukan konfigurasi GIT :
+1. pastikan leptop sudah terinstall git dengan mengencek git version terlebih dahuhlu dalam leptop
+2. buka git bash
+3. melihat nilai nilai serta letak file --> git config --list --show--origin
+4. konfigurasi alamat email 
+   --> git config --global user.name "Khosyi Nasywa Imanda"
+   --> git config --global user.email khosyinasywa@gmail.com
+5. memeriksa pengaturan yg ada di git kita--> git config --list
+6. memerikasi menggunakan pengaturan key khusus --> git config <key>
+  contoh :  git config user.email
+
+reverensi : https://www.youtube.com/watch?v=am4aEpZDPoM&list=PLsRgyXGy0Eo4Q8DvXsVX2YXgtCqYKo9C_&index=4

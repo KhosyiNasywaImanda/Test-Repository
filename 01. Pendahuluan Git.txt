@@ -1,0 +1,39 @@
+Pendahuluan GIT
+------------------------------------------
+Disusun oleh   : Khosyi Nasywa Imanda
+tanggal dibuat : 31 januari 2024
+
+.
+.
+.
+.
+.
+
+Pengertian Git
+- software yang menerapkan VCS (Version control System -->  sistem yang merekaam perubahan pada file atau sekumpulan file dari waktu ke waktu)
+- Sistem pengendali veris terdistribusi yg dirancang utk menangani segala sesuatu dari proyek kecil hingga proyek besar dengan kecepatan dan efisiensi
+
+
+Tujuan Penggunaan Git
+--> Untuk memudahkan prgrammer dalam bekerja Tim
+
+
+Manfaat Pengunaan Git 
+--> untuk menghindari terjadinya bentrok file antar anggota pada tim . Dengan penggunaan git pengguna jg dapat mengetahui siapa yang terakhir melakukan pemodifikasian file , kapan terakhir dimodifikasi dan lain sebagianya .
+
+
+Dasar-Dasar GIT
+- GIT akan menyimpan snapshot pada setiap kalo kita commit
+- Hampir setiap operasi tersedia di lokal
+- Git menyimpan semua yg ada di database bukan menggunakan nama file , namun menggunakan nilai bash .
+- dapat memulihkan data dan mengembalikan ke versi sebelumnya
+
+
+Tiga kondisi dalm GIT
+1. Modified --> kita sudah mengubah file , bemun belum di commit ke database
+2. Staged --> kita telah menandai file atau berkas yg sudah diubah ke dalam versi sekarang untk anapshot coommit kita selanjutnya
+3. Commited --> data disimpan dengan aman di datavbase local kita.
+
+
+
+referensi : https://www.youtube.com/watch?v=tuvoNKEPemE&list=PLsRgyXGy0Eo4Q8DvXsVX2YXgtCqYKo9C_&index=1 

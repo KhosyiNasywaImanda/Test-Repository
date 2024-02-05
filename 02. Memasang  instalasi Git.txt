@@ -1,0 +1,19 @@
+instalasi GIT
+------------------------------------------
+Disusun oleh   : Khosyi Nasywa Imanda
+tanggal dibuat : 31 januari 2024
+
+.
+.
+.
+.
+.
+
+Berikut merupakan langkah langkah dalam install Git :
+
+1. Alamat download --> https://git-scm.com/download/win
+2. tahapan instalasi mengikuti default (kalo ragu bisa lihat tutor yt)
+2. untuk Cek Versi --> git --version  (dibuka di CMD)
+
+
+reverensi : https://www.youtube.com/watch?v=RR6G9nqbbJo&list=PLsRgyXGy0Eo4Q8DvXsVX2YXgtCqYKo9C_&index=3
