@@ -1,0 +1,28 @@
+Membuat Repository GIT
+------------------------------------------
+Disusun oleh   : Khosyi Nasywa Imanda
+tanggal dibuat : 2 februari 2024
+
+.
+.
+.
+.
+.
+
+berikut merupakan langkah langkah dalam Membuat Repository GIT :
+1. Inisialisai Repository
+	- masuk ke dalam folder lalu copy alamat folder
+	- masukkan sintax $cd ..... alamat file ....
+	  (atau cara simple nya , masuk ke dalam folder , klik kanan , git bash here)
+	- $ git init buat inisialisasi
+	- $ git add. buat tambah file yg ada dalam folder
+	- $ git status buat cek file
+	- $ git log buat cek history
+
+2. membuat repository di github
+	- masuk kedalam folder
+	- buka salah satu file memalui vscode
+	- dalam vscode buka source control
+	- lanjutkan ...
+
+reverensi :https://www.youtube.com/watch?v=_LS1ILhJKvM&list=PLsRgyXGy0Eo4Q8DvXsVX2YXgtCqYKo9C_&index=5
